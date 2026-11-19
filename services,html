@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Our Services | AfriGeo</title>
+</head>
+<body>
+  <header>
+    <h2>AfriGeo</h2>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="projects.html">Case Studies</a></li>
+        <li><a href="booking.html">Book a Call</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+    <section>
+      <h1>Our Professional Services</h1>
+      <p>Afri Geoinformation Engineering PLC provides professional GIS, Geospatial, Mapping, and Transportation Engineering consultancy services.
+        We deliver innovative technical solutions to support infrastructure development and planning.   
+      </p>
+    </section>
+  </header>
+  <main>
+    <section>
+      <h2>Our Areas of Expertise</h2>
+      <p>Explore our professional consultancy services and discover how our technical expertise can support your organization and projects.</p>
+    </section>
+    <section>
+      <h2>1. Geographic Information Systems (GIS)</h2>
+      <img src="images/gis-services.jpg" alt="Geographic Information Systems mapping" width="400">
+      <p>We provide GIS solutions for collecting, managing, analyzing, and visualizing geographic information to support informed decision-making.</p>
+      <ul>
+        <li>GIS database development and management</li>
+        <li>Spatial data analysis</li>
+        <li>Digital mapping and visualization</li>
+        <li>Enterprise Geodatabase development</li>
+      </ul>
+    </section>
+    <section>
+        <h2>2. Remote Sensing</h2>
+        <img src="images/remote-sensing.jpg" alt="Satellite imagery and remote sensing analysis" width="400">
+        <p>We use satellite imagery and remote sensing technologies to collect and analyze information about the Earth's surface and environment.</p>
+        <ul>
+          <li>Satellite image processing</li>
+          <li>Land use and land cover analysis</li>
+          <li>Environmental monitoring</li>
+          <li>Geospatial image interpretation</li>
+        </ul>
+    </section>
+    <section>
+        <h2>3. Mapping and Land Surveying</h2>
+        <img src="images/mapping-survey.jpg" alt="Land surveying and topographic mapping" width="400">
+        <p>We provide mapping and surveying services to support infrastructure development, construction, and land management.</p>
+        <ul>
+          <li>Topographic surveying</li>
+          <li>Land mapping</li>
+          <li>Spatial data collection</li>
+          <li>Digital map production</li>
+        </ul>
+    </section>
+    <section>
+      <h2>4. Transportation Engineering</h2>
+      <img src="images/transport-engineering.jpg" alt="Transportation engineering and road planning" width="400">
+      <p>We provide transportation engineering consultancy services focused on improving transportation systems and infrastructure.</p>
+      <ul>
+        <li>Transportation planning</li>
+        <li>Road network analysis</li>
+        <li>Transportation corridor studies</li>
+        <li>Infrastructure planning</li>
+      </ul>
+    </section>
+    <section>
+      <h2>5. Traffic Analysis and Studies</h2>
+      <img src="images/traffic-analysis.jpg" alt="Traffic analysis and transportation study" width="400">
+      <p>We conduct traffic studies and analysis to understand transportation patterns and support effective traffic management.</p>
+      <ul>
+        <li>Traffic volume counts</li>
+        <li>Origin-Destination (OD) surveys</li>
+        <li>Speed surveys</li>
+        <li>Boarding and alighting surveys</li>
+      </ul>
+    </section>
+    <section>
+      <h2>6. Road Design and Planning</h2>
+      <img src="images/road-design.jpg" alt="Road geometric design and engineering plan" width="400">
+      <p>We support road infrastructure development through engineering studies, geometric road design, and spatial analysis.</p>
+      <ul><li>Geometric road design</li>
+        <li>Road corridor mapping</li>
+        <li>Right-of-Way (RoW) analysis</li>
+        <li>Road infrastructure planning</li>
+      </ul>
+    </section>
+    <section>
+        <h2>7. Socioeconomic Studies</h2>
+        <img src="images/socioeconomic.jpg" alt="Socioeconomic research and data collection" width="400">
+        <p>We conduct socioeconomic studies to understand communities, population characteristics, and development needs.</p>
+        <ul>
+          <li>Socioeconomic data collection</li>
+          <li>Community surveys</li>
+          <li>Population analysis</li>
+          <li>Socioeconomic research</li>
+        </ul>
+    </section>
+    <section>
+      <h2>Need Our Consultancy Services?</h2>
+      <p>Are you planning a GIS, mapping, transportation, or engineering project? Contact our team to discuss your requirements.</p>
+      <a href="booking.html">Book a Consultation</a>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2019 E.C. / 2026 Afri Geoinformation Engineering PLC. All rights reserved.</p>
+    <p>Email: <a href="mailto:info@afrigeoinfo.com">info@afrigeoinfo.com</a></p>
+    <p><a href="contact.html">Contact Us</a></p>
+  </footer>
+</body>
+</html>
