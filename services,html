@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Our Services | AfriGeo</title>
+  <title>Afrigeo Information PLC | | Services</title>
 </head>
 <body>
   <header>
-    <h2>AfriGeo</h2>
+    <h2>AfriGeo Information PLC</h2>
     <nav>
       <ul>
         <li><a href="index.html">Home</a></li>
@@ -32,7 +32,7 @@
     </section>
     <section>
       <h2>1. Geographic Information Systems (GIS)</h2>
-      <img src="images/gis-services.jpg" alt="Geographic Information Systems mapping" width="400">
+      <img src="images/Geographical-information-mapping.jpg" alt="Geographic Information Systems mapping" width="400">
       <p>We provide GIS solutions for collecting, managing, analyzing, and visualizing geographic information to support informed decision-making.</p>
       <ul>
         <li>GIS database development and management</li>
@@ -43,7 +43,7 @@
     </section>
     <section>
         <h2>2. Remote Sensing</h2>
-        <img src="images/remote-sensing.jpg" alt="Satellite imagery and remote sensing analysis" width="400">
+        <img src="images/Satellite.jpg" alt="Satellite imagery and remote sensing analysis" width="400">
         <p>We use satellite imagery and remote sensing technologies to collect and analyze information about the Earth's surface and environment.</p>
         <ul>
           <li>Satellite image processing</li>
@@ -89,7 +89,8 @@
       <h2>6. Road Design and Planning</h2>
       <img src="images/road-design.jpg" alt="Road geometric design and engineering plan" width="400">
       <p>We support road infrastructure development through engineering studies, geometric road design, and spatial analysis.</p>
-      <ul><li>Geometric road design</li>
+      <ul>
+        <li>Geometric road design</li>
         <li>Road corridor mapping</li>
         <li>Right-of-Way (RoW) analysis</li>
         <li>Road infrastructure planning</li>
